@@ -1,6 +1,8 @@
 # ✅ To-Do List Web App
 
 A beautifully designed, responsive To-Do List application built with a focus on clean UI/UX and user-friendly task management.
+
+> *"Simple to use. Beautiful to see. Efficient to manage."*
 ![App Screenshot](src/assets/screenshot.png)
 
 
@@ -18,20 +20,9 @@ A beautifully designed, responsive To-Do List application built with a focus on 
 - **Frontend**: HTML, CSS (custom gradients & styling),React.js
 - **Framework**: React js
 
-## 📸 Preview
-
-![To-Do List UI](./screenshot.png)
 
 > *"Simple to use. Beautiful to see. Efficient to manage."*
 
-## 🚀 Getting Started
-
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/todo-list-app.git
-   cd todo-list-app
 
 
 # React + Vite
