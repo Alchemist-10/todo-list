@@ -1,3 +1,40 @@
+# ✅ To-Do List Web App
+
+A beautifully designed, responsive To-Do List application built with a focus on clean UI/UX and user-friendly task management.
+![App Screenshot](src/assets/Screenshot 2025-06-30 155306.png)
+
+
+## ✨ Features
+
+- 🎨 **Modern UI**: Stunning gradient background with vibrant, colorful elements.
+- ➕ **Add Tasks**: Input field with an intuitive '+' button to add new tasks.
+- ✅ **Mark as Done**: Checkboxes strike through completed tasks with a clean animation.
+- 🗑️ **Delete Tasks**: Instantly remove tasks using the red delete button.
+- 🔼🔽 **Move Tasks**: Reorder tasks with up and down arrows.
+- 📦 **Persistent Storage** *(optional enhancement)*: Can be integrated with `localStorage` or a backend.
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS (custom gradients & styling), JavaScript
+- **Icons**: Font Awesome / Icon Packs (if used)
+- **Framework**: Vanilla JS or optionally React (if applicable)
+
+## 📸 Preview
+
+![To-Do List UI](./screenshot.png)
+
+> *"Simple to use. Beautiful to see. Efficient to manage."*
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/todo-list-app.git
+   cd todo-list-app
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
