@@ -11,13 +11,12 @@ A beautifully designed, responsive To-Do List application built with a focus on 
 - ✅ **Mark as Done**: Checkboxes strike through completed tasks with a clean animation.
 - 🗑️ **Delete Tasks**: Instantly remove tasks using the red delete button.
 - 🔼🔽 **Move Tasks**: Reorder tasks with up and down arrows.
-- 📦 **Persistent Storage** *(optional enhancement)*: Can be integrated with `localStorage` or a backend.
+- 📦 **Persistent Storage** : integrated with `localStorage` or a backend.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS (custom gradients & styling), JavaScript
-- **Icons**: Font Awesome / Icon Packs (if used)
-- **Framework**: Vanilla JS or optionally React (if applicable)
+- **Frontend**: HTML, CSS (custom gradients & styling),React.js
+- **Framework**: React js
 
 ## 📸 Preview
 
