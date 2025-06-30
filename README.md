@@ -1,7 +1,7 @@
 # ✅ To-Do List Web App
 
 A beautifully designed, responsive To-Do List application built with a focus on clean UI/UX and user-friendly task management.
-![App Screenshot](src/assets/Screenshot 2025-06-30 155306.png)
+![App Screenshot](src/assets/screenshot.png)
 
 
 ## ✨ Features
